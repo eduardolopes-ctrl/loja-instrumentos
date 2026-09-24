@@ -11055,7 +11055,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
 }
 
 .btn-primary {
-  --bs-btn-bg: var(--site-blue);
+     --bs-btn-bg: #6180c8;
   --bs-btn-border-color: var(--site-blue);
   --bs-btn-hover-bg: var(--site-blue-dark);
   --bs-btn-hover-border-color: var(--site-blue-dark);
